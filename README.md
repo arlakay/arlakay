@@ -5,10 +5,10 @@
 I'm from Indonesia.
 
 - 🔭 I’m currently working on a [Home Credit Indonesia](https://www.homecredit.co.id/)!
-- 🌱 I’m currently learning Flutter 🤣
+- 🌱 I’m currently Senior Sofware Engineer (Mobile) with expertise on Android & Flutter 🤣
 - 💬 Ask me about anything [here](https://github.com/arlakay/arlakay/issues)
 - 📫 How to reach me: ersarizkidimitri@yahoo.co.id <br>
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more on Flutter Plugin, Existing successfully develop (Innovatrics, Datascore)
 - ⚡ Fun fact: I don't like coding
 
 
