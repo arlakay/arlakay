@@ -4,12 +4,12 @@
 
 I'm from Indonesia.
 
-- 🔭 I’m currently working on a [Home Credit Indonesia](https://www.homecredit.co.id/)!
-- 🌱 I’m currently Senior Sofware Engineer (Mobile) with expertise on Android & Flutter 🤣
+- 🔭 I’m currently working on a [Bank MAS]([https://www.homecredit.co.id/](https://bankmas.co.id/id/))!
+- 🌱 I’m currently Technical Lead (Mobile) with expertise on Flutter, Android & iOS 🤣
 - 💬 Ask me about anything [here](https://github.com/arlakay/arlakay/issues)
 - 📫 How to reach me: ersarizkidimitri@yahoo.co.id <br>
-- 🥅 2022 Goals: Contribute more on Flutter Plugin, Existing successfully develop (Innovatrics, Datascore)
-- ⚡ Fun fact: I don't like coding
+- 🥅 Goals: Contribute more on Flutter Plugin, Existing successfully develop (Innovatrics Plugin, Datascore Plugin, TAP_MNV Plugin)
+- ⚡ Fun fact: I looking for an opportunity outside of Indonesia
 
 
 ### Languages and Tools:
